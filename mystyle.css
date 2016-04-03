@@ -1,0 +1,14 @@
+h1 {
+	color:red;
+}
+p {
+	font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+	font-size: 14px;
+	color:gold;
+}
+body {
+	background-color:darkgreen;
+}
+a{
+	color:darkred;
+}
